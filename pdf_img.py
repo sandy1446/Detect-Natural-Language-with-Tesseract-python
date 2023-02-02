@@ -1,7 +1,7 @@
 import fitz
 
 # Open the PDF file
-pdf = fitz.open("Voting Booth.pdf")
+pdf = fitz.open("static/Voting Booth.pdf")
 
 # Select the page that you want to save
 page_number=0
